@@ -33,7 +33,7 @@ class Graph:
 
         Description: 
         We have two list open_list and closed_list. Open list consist nodes 
-        which have been visited but neighbours are not visited and Closed list 
+        which have been visited but neighbours are not visited whereas Closed list 
         contains node which are visited as well as its neighbors are also visited.
 
         We start with starting node in open list and closed list as empty list.
